@@ -1,0 +1,157 @@
+html {
+    background: url("C:/Projects/Beaver Family Website/Images/Antique_Paper.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbutton {
+    text-decoration: none;
+    color: #000;
+}
+
+header {
+    margin-bottom: 0px;
+}
+
+body {
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-bottom:0px;
+    z-index: 1;
+}
+
+#beaver-banner {
+    background-image: url("C:/Projects/Beaver Family Website/Images/Missouri-Beavers.jpg");
+    height: 275px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 2px solid black;
+}
+
+p {
+    font-family: Quicksand, sans-serif;
+    font-size: 18px;
+}
+
+.image-container {
+    width: 359px;
+    height: 297px;
+    text-align: center;
+    border: 1px solid grey;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    display: block;
+}
+
+.profile-box {
+    float: right;
+    border: 2px solid black;
+    margin: 25px;
+    background-color:#FFDEAD;
+}
+
+#box-indent {
+    margin-left: 15px;
+}
+
+#box-detail {
+    background-color: #2F4F4F;
+    color: white;
+}
+
+#asbury {
+    display: block;
+    font-family: Quicksand, sans-serif;
+}
+
+.profile-image {
+    border: 2px solid grey;
+    text-align: center;
+    margin: 0px;
+    width: 271px;
+}
+
+.beaver-bridge {
+    height: 250px;
+    width: auto;
+}
+
+.gallery {
+    border: 2px solid grey;
+    height: 175px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-left: 6px;
+}
+
+.gallery-photos {
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    float: left;
+    margin: 7px;
+    margin-top: 10px;
+}
+
+.navbutton1 {
+    border-right:none;
+}
+
+nav h1 {
+    display: inline-block;
+    margin-bottom: 0px;
+    font-family: Liu Jian Mao Cao, cursive;
+    font-size: 25px;
+    border: 2px solid black;
+    padding: 7px;
+    height: 35px;
+    width: 165px;
+    background-color:#CD5C5C;
+    opacity:65%;
+    border-bottom:none;
+}
+
+h2 {
+    text-align: center;
+    font-family: Liu Jian Mao Cao, cursive;
+    font-size: 35px;
+    margin-top: auto;
+}
+
+h3 {
+    font-family: Liu Jian Mao Cao, cursive;
+    font-size: 25px;
+    background-color: #2F4F4F;
+    color: white;
+    height:25px;
+    padding: 10px;
+    border: 2px solid grey;
+}
+
+h4 {
+    margin-top: auto;
+    font-family: Liu Jian Mao Cao, cursive;
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 12px;
+}
+
+h6 {
+    font-family: Quicksand, sans-serif;
+    font-size: 12px;
+    margin: 10px;
+}
+
+footer {
+    text-align: center;
+    border: 2px dotted grey;
+    font-size: 10px;
+    width: 100%;
+    clear: both;
+}
